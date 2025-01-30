@@ -5,10 +5,11 @@ public class AnonymousObject {
         System.out.println("Hello Vijay welcome to Java Programming language");
     }
 }
-class M{
+class B{
     public static void main(String[] args) {
         // anonymousObject is creating
         new AnonymousObject().display();
+        
         
     }
 }
